@@ -1,4 +1,4 @@
-# Rawaj Pay: transfer scoring service and analyst console (Sprint 0 draft)
+# Rawaj Pay: transfer scoring service and analyst console (Sprint 0 model - completed)
 system: Rawaj Pay mule-account scoring
 zones:
   - {id: internet, trust: 0}
